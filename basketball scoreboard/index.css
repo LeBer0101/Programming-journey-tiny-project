@@ -1,0 +1,31 @@
+@font-face {
+    font-family: basketfont;
+    src: url(StoehrNumbers.ttf);
+}
+
+
+body{
+    background-color:blue ;
+    margin: auto;
+    text-align: center;
+    font-size: large;
+}
+
+.resultfont{
+    font-family: basketfont;
+    background-color: black;
+    color: red;
+    
+}
+
+.light1{
+    content: "home";
+    background-color: yellow;
+    display: none;
+}
+
+.light2 {
+    content: "out";
+    background-color: yellow;
+    display: none;
+}
